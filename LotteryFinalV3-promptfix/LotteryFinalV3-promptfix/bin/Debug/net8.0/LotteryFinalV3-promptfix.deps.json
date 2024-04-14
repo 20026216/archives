@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LotteryFinalV3-promptfix/1.0.0": {
+        "runtime": {
+          "LotteryFinalV3-promptfix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LotteryFinalV3-promptfix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
