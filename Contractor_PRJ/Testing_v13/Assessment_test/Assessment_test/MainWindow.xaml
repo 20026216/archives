@@ -1,0 +1,34 @@
+﻿<Window x:Class="Assessment_test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assessment_test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1000">
+    <Grid>
+        <Button x:Name="Adder" Content="Add Contractor" Margin="296,230,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="Adder_Click"/>
+        <ListBox x:Name="AvailableContractorList" Margin="24,87,726,73" SelectionChanged="AvailableContractorList_SelectionChanged"/>
+        <Label Content="Available Contractors" Margin="24,24,828,602"/>
+        <TextBox x:Name="textBoxLastName" HorizontalAlignment="Left" Height="45" Margin="296,161,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="148" RenderTransformOrigin="-0.669,1.624"/>
+        <TextBox x:Name="textBoxFirstName" HorizontalAlignment="Left" Height="47" Margin="296,87,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="148"/>
+        <Button x:Name="Job_Adder" Content="Add to Job" Margin="296,444,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="148" Click="Job_Adder_Click"/>
+        <Button x:Name="Remover" Content="Remove Contractor" Margin="296,303,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="148" Click="Remover_Click" RenderTransformOrigin="1.793,-1.228"/>
+        <ListBox x:Name="Job_list" Margin="673,87,77,73"/>
+        <Label Content="Jobs" Margin="673,29,179,597"/>
+        <Button x:Name="Complete_Job" Content="Complete Job" Margin="296,504,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="148" Click="Complete_Job_Click"/>
+        <Button x:Name="Search_Job" Content="Search Jobs by Cost" Margin="517,555,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="148" Click="Search_Job_Click" RenderTransformOrigin="-1.322,-1.096"/>
+        <TextBox x:Name="textBoxMinCost" HorizontalAlignment="Left" Height="46" Margin="531,504,0,0" TextWrapping="Wrap" Text="Min Cost" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="textBoxMaxCost" HorizontalAlignment="Left" Height="46" Margin="531,444,0,0" TextWrapping="Wrap" Text="Max Cost" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="textBoxJobName" HorizontalAlignment="Left" Height="46" Margin="531,87,0,0" TextWrapping="Wrap" Text="Job Name" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxJobCost" HorizontalAlignment="Left" Height="46" Margin="531,160,0,0" TextWrapping="Wrap" Text="Job Cost" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBoxHourlyRate" HorizontalAlignment="Left" Height="46" Margin="531,230,0,0" TextWrapping="Wrap" Text="Hourly Rate" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Add_Job" Content="Add Job" Margin="531,303,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="120" Click="Add_Job_Click"/>
+        <Button x:Name="Remove_Job" Content="Remove Job" Margin="531,379,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="120" Click="Remove_Job_Click"/>
+        <Label Content="Select a contractor,&#x0a;then a job from the list." Margin="296,361,556,240"/>
+        <Button x:Name="Show_All_Jobs" Content="Show All Jobs" Margin="724,611,0,0" HorizontalAlignment="Left"  Height="46" VerticalAlignment="Top" Width="148" Click="Show_All_Jobs_Click" RenderTransformOrigin="-1.322,-1.096"/>
+
+
+
+    </Grid>
+</Window>

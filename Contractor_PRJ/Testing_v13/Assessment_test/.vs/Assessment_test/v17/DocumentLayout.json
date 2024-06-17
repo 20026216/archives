@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD8FD0A-0E4F-4BFF-AC55-EA176AEFB551}|Assessment_test\\Assessment_test.csproj|c:\\users\\20026216\\source\\repos\\assessment_2_wpf\\assessment_test\\assessment_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD8FD0A-0E4F-4BFF-AC55-EA176AEFB551}|Assessment_test\\Assessment_test.csproj|solutionrelative:assessment_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD8FD0A-0E4F-4BFF-AC55-EA176AEFB551}|Assessment_test\\Assessment_test.csproj|c:\\users\\20026216\\source\\repos\\assessment_2_wpf\\assessment_test\\assessment_test\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6CD8FD0A-0E4F-4BFF-AC55-EA176AEFB551}|Assessment_test\\Assessment_test.csproj|solutionrelative:assessment_test\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD8FD0A-0E4F-4BFF-AC55-EA176AEFB551}|Assessment_test\\Assessment_test.csproj|c:\\users\\20026216\\source\\repos\\assessment_2_wpf\\assessment_test\\assessment_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD8FD0A-0E4F-4BFF-AC55-EA176AEFB551}|Assessment_test\\Assessment_test.csproj|solutionrelative:assessment_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\Assessment_test\\App.xaml",
+              "RelativeDocumentMoniker": "Assessment_test\\App.xaml",
+              "ToolTip": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\Assessment_test\\App.xaml",
+              "RelativeToolTip": "Assessment_test\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T02:36:47.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\Assessment_test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assessment_test\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\Assessment_test\\MainWindow.xaml",
+              "RelativeToolTip": "Assessment_test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T01:26:05.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\Assessment_test\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assessment_test\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\20026216\\Source\\repos\\assessment_2_wpf\\Assessment_test\\Assessment_test\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assessment_test\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:26:03.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
