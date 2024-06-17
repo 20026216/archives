@@ -1,0 +1,13 @@
+/* 2024-06-06 14:20:00 [] */ /* Delimiter changed to ; */
+/* 2024-06-06 14:20:00 [] */ /* Writing to session log file now: C:\Users\20026216\source\repos\SQL_PRJ\V3\SQL_Logs\000003.log */
+/* 2024-06-06 14:20:02 [Unnamed] */ /* Connecting to 127.0.0.1 via MariaDB or MySQL (TCP/IP), username root, using password: No ... */
+/* 2024-06-06 14:20:02 [Unnamed] */ /* Characterset: utf8mb4 */
+/* 2024-06-06 14:20:02 [Unnamed] */ /* Connected. Thread-ID: 11 */
+/* 2024-06-06 14:20:02 [Unnamed] */ /* Reading function definitions from C:\ProgramData\Laragon\bin\heidisql\functions-mysql.ini */
+/* 2024-06-06 14:20:02 [] */ /* Entering session "Unnamed" */
+/* 2024-06-06 14:20:02 [] */ /* C:\Users\20026216\source\repos\SQL_PRJ\V1\References\UIExcercise commented\create_database.sql loaded in process #18468 */
+/* 2024-06-06 14:20:02 [] */ /* C:\ProgramData\Laragon\bin\heidisql\Backups\query-tab-2024-05-30_13-36-50-622.sql loaded in process #18468 */
+/* 2024-06-06 14:20:02 [] */ /* Scaling controls to screen DPI: 100% */
+/* 2024-06-06 14:20:43 [] */ /* Affected rows: 0  Found rows: 9  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:21:23 [] */ /* Entering session "Unnamed" */
+/* 2024-06-06 14:21:28 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */

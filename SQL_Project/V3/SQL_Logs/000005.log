@@ -1,0 +1,51 @@
+/* 2024-06-06 15:07:26 [] */ /* Delimiter changed to ; */
+/* 2024-06-06 15:07:26 [] */ /* Writing to session log file now: C:\Users\20026216\source\repos\SQL_PRJ\V3\SQL_Logs\000005.log */
+/* 2024-06-06 15:07:28 [Unnamed] */ /* Connecting to 127.0.0.1 via MariaDB or MySQL (TCP/IP), username root, using password: No ... */
+/* 2024-06-06 15:07:28 [Unnamed] */ SELECT CONNECTION_ID();
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW VARIABLES;
+/* 2024-06-06 15:07:28 [Unnamed] */ /* Characterset: utf8mb4 */
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW /*!50002 GLOBAL */ STATUS;
+/* 2024-06-06 15:07:28 [Unnamed] */ SELECT NOW();
+/* 2024-06-06 15:07:28 [Unnamed] */ /* Connected. Thread-ID: 12 */
+/* 2024-06-06 15:07:28 [Unnamed] */ /* Reading function definitions from C:\ProgramData\Laragon\bin\heidisql\functions-mysql.ini */
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW TABLES FROM `information_schema`;
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW DATABASES;
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW OPEN TABLES FROM jcm_ictprg431 WHERE `in_use`!=0;
+/* 2024-06-06 15:07:28 [Unnamed] */ USE `jcm_ictprg431`;
+/* 2024-06-06 15:07:28 [] */ /* Entering session "Unnamed" */
+/* 2024-06-06 15:07:28 [Unnamed] */ SELECT `DEFAULT_COLLATION_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME`='jcm_ictprg431';
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW TABLE STATUS FROM `jcm_ictprg431`;
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW FUNCTION STATUS WHERE `Db`='jcm_ictprg431';
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW PROCEDURE STATUS WHERE `Db`='jcm_ictprg431';
+/* 2024-06-06 15:07:28 [Unnamed] */ SHOW TRIGGERS FROM `jcm_ictprg431`;
+/* 2024-06-06 15:07:28 [Unnamed] */ SELECT *, EVENT_SCHEMA AS `Db`, EVENT_NAME AS `Name` FROM information_schema.`EVENTS` WHERE `EVENT_SCHEMA`='jcm_ictprg431';
+/* 2024-06-06 15:07:29 [] */ /* Loading file "C:\Users\20026216\source\repos\SQL_PRJ\V1\References\UIExcercise commented\create_database.sql" (486 B) into query tab #1 ... */
+/* 2024-06-06 15:07:29 [] */ /* Loading file "C:\ProgramData\Laragon\bin\heidisql\Backups\query-tab-2024-05-30_13-36-50-622.sql" (634 B) into query tab #2 ... */
+/* 2024-06-06 15:07:29 [] */ /* Loading file "C:\ProgramData\Laragon\bin\heidisql\Backups\query-tab-2024-06-06_14-20-00-702.sql" (24 B) into query tab #3 ... */
+/* 2024-06-06 15:07:29 [] */ /* Scaling controls to screen DPI: 100% */
+/* 2024-06-06 15:07:37 [Unnamed] */ SELECT * FROM `information_schema`.`COLUMNS` WHERE TABLE_SCHEMA='jcm_ictprg431' AND TABLE_NAME='almost_dummy' ORDER BY ORDINAL_POSITION;
+/* 2024-06-06 15:07:37 [Unnamed] */ SHOW INDEXES FROM `almost_dummy` FROM `jcm_ictprg431`;
+/* 2024-06-06 15:07:37 [Unnamed] */ SELECT * FROM information_schema.REFERENTIAL_CONSTRAINTS WHERE   CONSTRAINT_SCHEMA='jcm_ictprg431'   AND TABLE_NAME='almost_dummy'   AND REFERENCED_TABLE_NAME IS NOT NULL;
+/* 2024-06-06 15:07:37 [Unnamed] */ SELECT * FROM information_schema.KEY_COLUMN_USAGE WHERE   TABLE_SCHEMA='jcm_ictprg431'   AND TABLE_NAME='almost_dummy'   AND REFERENCED_TABLE_NAME IS NOT NULL;
+/* 2024-06-06 15:07:37 [Unnamed] */ SHOW ENGINES;
+/* 2024-06-06 15:07:37 [Unnamed] */ SHOW COLLATION;
+/* 2024-06-06 15:07:37 [Unnamed] */ SHOW CREATE TABLE `jcm_ictprg431`.`almost_dummy`;
+/* 2024-06-06 15:07:37 [Unnamed] */ SELECT tc.CONSTRAINT_NAME, cc.CHECK_CLAUSE FROM `information_schema`.`CHECK_CONSTRAINTS` AS cc, `information_schema`.`TABLE_CONSTRAINTS` AS tc WHERE tc.CONSTRAINT_SCHEMA='jcm_ictprg431' AND tc.TABLE_NAME='almost_dummy' AND tc.CONSTRAINT_TYPE='CHECK' AND tc.CONSTRAINT_SCHEMA=cc.CONSTRAINT_SCHEMA AND tc.CONSTRAINT_NAME=cc.CONSTRAINT_NAME;
+/* 2024-06-06 15:07:40 [Unnamed] */ SELECT `DEFAULT_COLLATION_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME`='kn_ictprg431_user1';
+/* 2024-06-06 15:07:40 [Unnamed] */ SHOW TABLE STATUS FROM `kn_ictprg431_user1`;
+/* 2024-06-06 15:07:40 [Unnamed] */ SHOW FUNCTION STATUS WHERE `Db`='kn_ictprg431_user1';
+/* 2024-06-06 15:07:40 [Unnamed] */ SHOW PROCEDURE STATUS WHERE `Db`='kn_ictprg431_user1';
+/* 2024-06-06 15:07:40 [Unnamed] */ SHOW TRIGGERS FROM `kn_ictprg431_user1`;
+/* 2024-06-06 15:07:40 [Unnamed] */ SELECT *, EVENT_SCHEMA AS `Db`, EVENT_NAME AS `Name` FROM information_schema.`EVENTS` WHERE `EVENT_SCHEMA`='kn_ictprg431_user1';
+/* 2024-06-06 15:07:40 [Unnamed] */ USE `kn_ictprg431_user1`;
+/* 2024-06-06 15:07:42 [Unnamed] */ USE `jcm_ictprg431`;
+/* 2024-06-06 15:07:46 [Unnamed] */ SELECT * FROM `information_schema`.`COLUMNS` WHERE TABLE_SCHEMA='jcm_ictprg431' AND TABLE_NAME='employees' ORDER BY ORDINAL_POSITION;
+/* 2024-06-06 15:07:46 [Unnamed] */ SHOW INDEXES FROM `employees` FROM `jcm_ictprg431`;
+/* 2024-06-06 15:07:46 [Unnamed] */ SELECT * FROM information_schema.REFERENTIAL_CONSTRAINTS WHERE   CONSTRAINT_SCHEMA='jcm_ictprg431'   AND TABLE_NAME='employees'   AND REFERENCED_TABLE_NAME IS NOT NULL;
+/* 2024-06-06 15:07:46 [Unnamed] */ SELECT * FROM information_schema.KEY_COLUMN_USAGE WHERE   TABLE_SCHEMA='jcm_ictprg431'   AND TABLE_NAME='employees'   AND REFERENCED_TABLE_NAME IS NOT NULL;
+/* 2024-06-06 15:07:46 [Unnamed] */ SHOW CREATE TABLE `jcm_ictprg431`.`employees`;
+/* 2024-06-06 15:07:46 [Unnamed] */ SELECT tc.CONSTRAINT_NAME, cc.CHECK_CLAUSE FROM `information_schema`.`CHECK_CONSTRAINTS` AS cc, `information_schema`.`TABLE_CONSTRAINTS` AS tc WHERE tc.CONSTRAINT_SCHEMA='jcm_ictprg431' AND tc.TABLE_NAME='employees' AND tc.CONSTRAINT_TYPE='CHECK' AND tc.CONSTRAINT_SCHEMA=cc.CONSTRAINT_SCHEMA AND tc.CONSTRAINT_NAME=cc.CONSTRAINT_NAME;
+/* 2024-06-06 15:07:52 [Unnamed] */ SELECT * FROM `jcm_ictprg431`.`employees` LIMIT 1000;
+/* 2024-06-06 15:12:02 [Unnamed] */ SELECT * FROM `jcm_ictprg431`.`employees` LIMIT 1000;
+/* 2024-06-06 15:34:41 [Unnamed] */ SELECT * FROM `jcm_ictprg431`.`employees` LIMIT 1000;
+/* 2024-06-06 15:38:34 [] */ /* Loading file "C:\Users\20026216\source\repos\SQL_PRJ\V1\References\SetupSQLTable

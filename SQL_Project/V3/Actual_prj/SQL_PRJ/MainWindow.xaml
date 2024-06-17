@@ -1,0 +1,36 @@
+﻿<Window x:Class="SQL_PRJ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SQL_PRJ"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="700">
+    <Grid>
+        <Image Source="./img/LOGO.png" Margin="-79,0,426,789"/>
+        <Image Source="./img/GenericBusiness.png" Grid.ColumnSpan="2" Grid.RowSpan="2" Stretch="UniformToFill" Opacity="0.5" />
+
+
+        <ListBox x:Name="EmployeesList" Margin="47,158,314,157" SelectionChanged="EmployeesList_SelectionChanged"/>
+        <Label Content="Employees" Margin="72,105,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" />
+
+
+        <TextBox x:Name="textBoxGivenName" HorizontalAlignment="Left" Height="35" Margin="428,158,0,0" TextWrapping="Wrap" Text="Given Name" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="textBoxFamilyName" HorizontalAlignment="Left" Height="34" Margin="428,212,0,0" TextWrapping="Wrap" Text="Family Name" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="textBoxDOB" HorizontalAlignment="Left" Height="34" Margin="428,268,0,0" TextWrapping="Wrap" Text="Date of Birth" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="textBoxSalary" HorizontalAlignment="Left" Height="34" Margin="428,380,0,0" TextWrapping="Wrap" Text="Salary" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="textBoxGenID" HorizontalAlignment="Left" Height="34" Margin="428,322,0,0" TextWrapping="Wrap" Text="Identity" VerticalAlignment="Top" Width="64"/>
+        <TextBox x:Name="textBoxSupervisor" HorizontalAlignment="Left" Height="34" Margin="510,322,0,0" TextWrapping="Wrap" Text="SupervisorID" VerticalAlignment="Top" Width="64" RenderTransformOrigin="1.076,0.633"/>
+        <TextBox x:Name="textBoxBranch" HorizontalAlignment="Left" Height="34" Margin="592,322,0,0" TextWrapping="Wrap" Text="BranchID" VerticalAlignment="Top" Width="64"/>
+
+
+        <Button Content="Add Employee" Margin="441,442,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="EmployeeCreator"/>
+        <Button Content="Update Employee" Margin="441,519,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="EmployeeUpdater"/>
+        <Button Content="Delete Employee" Margin="441,590,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="EmployeeDeleter"/>
+        <Button Content="Search Employees" Margin="441,663,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="EmployeeSearch"/>
+
+        <Button Content="Reload List" Margin="155,763,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="ReloadList"/>
+        <Button Content="About" Margin="508,24,0,0" HorizontalAlignment="Left"  Height="48" VerticalAlignment="Top" Width="148" Click="About_Button"/>
+
+    </Grid>
+</Window>

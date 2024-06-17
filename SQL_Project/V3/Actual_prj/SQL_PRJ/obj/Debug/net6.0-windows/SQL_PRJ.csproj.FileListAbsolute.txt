@@ -1,0 +1,125 @@
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.exe
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.deps.json
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.runtimeconfig.json
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.pdb
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ_MarkupCompile.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ_MarkupCompile.lref
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.g.resources
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.AssemblyInfoInputs.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.AssemblyInfo.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.CoreCompileInputs.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\refint\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.pdb
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.genruntimeconfig.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\ref\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\Search_Window.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\Search_Window.baml
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.AssemblyReference.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V1\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.CopyComplete
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.exe
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.deps.json
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.runtimeconfig.json
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.pdb
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.AssemblyReference.cache
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\Search_Window.g.cs
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ_MarkupCompile.cache
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ_MarkupCompile.lref
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\Search_Window.baml
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.g.resources
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.AssemblyInfoInputs.cache
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.AssemblyInfo.cs
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.CoreCompileInputs.cache
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.CopyComplete
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\refint\SQL_PRJ.dll
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.pdb
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.genruntimeconfig.cache
+C:\Users\colli\Desktop\Collin 2024\Tafe Cert 4\SQL\Assessment\SQL_PRJ\V2\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\ref\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.exe
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.deps.json
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.runtimeconfig.json
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\SQL_PRJ.pdb
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.AssemblyReference.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\Search_Window.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ_MarkupCompile.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ_MarkupCompile.lref
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\Search_Window.baml
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.g.resources
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.AssemblyInfoInputs.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.AssemblyInfo.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.CoreCompileInputs.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.csproj.CopyComplete
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\refint\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.pdb
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\SQL_PRJ.genruntimeconfig.cache
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\ref\SQL_PRJ.dll
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\20026216\source\repos\SQL_PRJ\V3\Actual_prj\SQL_PRJ\obj\Debug\net6.0-windows\AboutWindow.baml

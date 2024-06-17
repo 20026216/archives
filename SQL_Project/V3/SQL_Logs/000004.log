@@ -1,0 +1,117 @@
+/* 2024-06-06 14:24:39 [] */ /* Delimiter changed to ; */
+/* 2024-06-06 14:24:39 [] */ /* Writing to session log file now: C:\Users\20026216\source\repos\SQL_PRJ\V3\SQL_Logs\000004.log */
+/* 2024-06-06 14:24:41 [Unnamed] */ /* Connecting to 127.0.0.1 via MariaDB or MySQL (TCP/IP), username root, using password: No ... */
+/* 2024-06-06 14:24:41 [Unnamed] */ /* Characterset: utf8mb4 */
+/* 2024-06-06 14:24:41 [Unnamed] */ /* Connected. Thread-ID: 8 */
+/* 2024-06-06 14:24:41 [Unnamed] */ /* Reading function definitions from C:\ProgramData\Laragon\bin\heidisql\functions-mysql.ini */
+/* 2024-06-06 14:24:41 [] */ /* Entering session "Unnamed" */
+/* 2024-06-06 14:24:41 [] */ /* Loading file "C:\Users\20026216\source\repos\SQL_PRJ\V1\References\UIExcercise commented\create_database.sql" (486 B) into query tab #1 ... */
+/* 2024-06-06 14:24:41 [] */ /* Loading file "C:\ProgramData\Laragon\bin\heidisql\Backups\query-tab-2024-05-30_13-36-50-622.sql" (634 B) into query tab #2 ... */
+/* 2024-06-06 14:24:41 [] */ /* Loading file "C:\ProgramData\Laragon\bin\heidisql\Backups\query-tab-2024-06-06_14-20-00-702.sql" (24 B) into query tab #3 ... */
+/* 2024-06-06 14:24:41 [] */ /* Scaling controls to screen DPI: 100% */
+/* 2024-06-06 14:25:08 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.016 sec. */
+/* 2024-06-06 14:25:17 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:18 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:18 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:18 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:18 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:19 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:19 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoQuery" */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoQuery2" */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoQuery3" */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoFilter" */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoProcessView" */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoSQLLog" */
+/* 2024-06-06 14:25:43 [] */ /* Setting up TSynMemo "SynMemoSQLSample" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoQuery" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoQuery2" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoQuery3" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoFilter" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoProcessView" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoSQLLog" */
+/* 2024-06-06 14:25:45 [] */ /* Setting up TSynMemo "SynMemoSQLSample" */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_init, thread id #20108 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ SELECT * FROM employees;
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_end, thread id #20108 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Result #1 fetched. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for employee_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for given_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for family_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for date_of_birth (10): DATE */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gender_identity (254): CHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gross_salary (3): INT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for supervisor_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for branch_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for created_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for updated_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_init, thread id #22724 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ SELECT * FROM employees;
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_end, thread id #22724 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Result #1 fetched. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for employee_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for given_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for family_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for date_of_birth (10): DATE */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gender_identity (254): CHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gross_salary (3): INT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for supervisor_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for branch_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for created_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for updated_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_init, thread id #11372 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ SELECT * FROM employees;
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_end, thread id #11372 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Result #1 fetched. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for employee_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for given_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for family_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for date_of_birth (10): DATE */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gender_identity (254): CHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gross_salary (3): INT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for supervisor_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for branch_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for created_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for updated_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_init, thread id #19388 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:25:50 [Unnamed] */ SELECT * FROM employees;
+/* 2024-06-06 14:25:50 [Unnamed] */ /* mysql_thread_end, thread id #19388 */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Result #1 fetched. */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for employee_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for given_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for family_name (253): VARCHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for date_of_birth (10): DATE */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gender_identity (254): CHAR */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for gross_salary (3): INT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for supervisor_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for branch_id (8): BIGINT */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for created_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [Unnamed] */ /* Detected column type for updated_at (7): TIMESTAMP */
+/* 2024-06-06 14:25:50 [] */ /* Affected rows: 0  Found rows: 10  Warnings: 0  Duration for 1 query: 0.000 sec. */
+/* 2024-06-06 14:26:10 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:26:30 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:26:40 [] */ /* Portable settings file written, with 119 changes. */
+/* 2024-06-06 14:26:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:27:10 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:27:30 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:27:50 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:28:10 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:28:30 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:28:30 [Unnamed] */ /* Connection to 127.0.0.1 closed at 2024-06-06 14:28:30 */
+/* 2024-06-06 14:29:11 [] */ /* Saving backup file to "C:\ProgramData\Laragon\bin\heidisql\Backups\query-tab-2024-06-06_14-20-00-702.sql"... */
+/* 2024-06-06 14:30:23 [Unnamed] */ /* Get connection details ... */
+/* 2024-06-06 14:30:23 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:30:23 [Unnamed] */ /* Get connection details ... */
+/* 2024-06-06 14:30:23 [Unnamed] */ /* Ping server ... */
+/* 2024-06-06 14:31:23 [] */ /* Setting up TSynMemo "SynMemoSQLSample" */
